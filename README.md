@@ -3,4 +3,4 @@
 ## Core Tech:
 ### Backend: MySQL, Flask
 ### Frondtend: CSS, JavaScript, Vue
-### Data Visu: ECharts
+### Data Visu: ECharts D3.js
